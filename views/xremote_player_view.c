@@ -1,7 +1,7 @@
 /*!
  *  @file flipper-xremote/views/xremote_player_view.c
     @license This project is released under the GNU GPLv3 License
- *  @copyright (c) 2023 Sandro Kalatozishvili (s.kalatoz@gmail.com)
+ *  @copyright (c) 2023 Sandro Kalatozishvili
  *
  * @brief Playback page view callbacks and infrared functionality.
  */

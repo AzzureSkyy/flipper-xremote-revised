@@ -1,7 +1,7 @@
 /*!
  *  @file flipper-xremote/xremote_control.c
     @license This project is released under the GNU GPLv3 License
- *  @copyright (c) 2023 Sandro Kalatozishvili (s.kalatoz@gmail.com)
+ *  @copyright (c) 2023 Sandro Kalatozishvili
  *
  * @brief Remote controller application menu and view factory.
  */
