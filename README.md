@@ -10,7 +10,7 @@
 
 > **Revised fork.** This repository is a maintained revision of [XRemote](https://github.com/kala13x/flipper-xremote) by **Sandro Kalatozishvili (kala13x)**, whose original repository is no longer available. Revisions by **AzureSky**. See [CREDITS.md](CREDITS.md) for attribution and the list of changes.
 
-## Revisions in 1.5 (AzureSky) Using the Double Barrel for IOTMUG 
+## Revisions in 1.5 (AzureSky) Using the Double Barrel from IOTMUG 
 https://www.iotmug.com/flipper-zero-double-barreled-ir-led-blaster-dazzler-850nm
 
 The 1.4 release of XRemote relied on the *stock* Infrared app's settings file to decide whether to use an external IR module. If the stock app was set to "Flipper", XRemote never used the GPIO module and there was no way to change that from inside XRemote. This revision adds the same external-module selector the stock Infrared app has:
